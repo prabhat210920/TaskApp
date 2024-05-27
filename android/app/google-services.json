@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "399954112129",
+    "project_id": "taskapp-afdda",
+    "storage_bucket": "taskapp-afdda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399954112129:android:f30be84ded9644a2662780",
+        "android_client_info": {
+          "package_name": "com.example.taskapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt_U6OmrbN5xHDqF_kkU0nC5brncBbGSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

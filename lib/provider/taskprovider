@@ -1,0 +1,7 @@
+class TaskListNotifier extends StateNotifier<List<Task>> { // Define a StateNotifier
+  TaskListNotifier() : super([]); // Initialize with an empty list
+
+  void updateTasks(List<Task> tasks) {
+    state = tasks; // Update the state with new tasks
+  }
+}
